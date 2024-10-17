@@ -3,16 +3,19 @@
   <tr>
     <th>Nr</th>
     <th>Focus</th>
-    <th>Link</th>
+    <th>Link to the lesson</th>
+    <th>Link to the homework</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Strings, floats nd variables</td>
+    <td>Strings, floats and variables</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>lists</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
