@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>lists</td>
+    <td>lists and loops</td>
     <td></td>
     <td></td>
   </tr>
@@ -39,6 +39,24 @@
   <tr>
     <td>6</td>
     <td>Practical session</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Modules, intro to pandas</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>More pandas</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td> Matplotlib. Nice colorful graphs! ✨ </td>
     <td></td>
     <td></td>
   </tr>
