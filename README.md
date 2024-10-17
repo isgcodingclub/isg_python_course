@@ -9,7 +9,7 @@
   <tr>
     <td>1</td>
     <td>Strings, floats and variables</td>
-    <td></td>
+    <td><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></td>
     <td></td>
   </tr>
   <tr>
