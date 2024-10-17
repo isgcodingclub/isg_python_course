@@ -24,5 +24,23 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>input statements and if statements</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>functions</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Practical session</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
