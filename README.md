@@ -9,7 +9,7 @@
   <tr>
     <td>1</td>
     <td>Strings, floats and variables</td>
-    <td><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></td>
+    <td><a href="https://github.com/isgcodingclub/isg_python_course/blob/58bbce723fe17f17541fa652c1fd35e2b0a75366/jupyter_notebooks/Python_lesson_1.ipynb"> Link to lesson 1</a></td>
     <td></td>
   </tr>
   <tr>
