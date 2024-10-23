@@ -3,9 +3,9 @@
   <tr>
     <th>Nr</th>
     <th>Focus</th>
-    <th>Link to the lesson</th>
+    <th>Link to the lesson and other files</th>
     <th>Link to the homework</th>
-    <td>Link to youtube video</td>
+    <th>Link to youtube video</th>
   </tr>
   <tr>
     <td>1</td>
@@ -17,7 +17,6 @@
   <tr>
     <td>2</td>
     <td>lists and loops</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -48,10 +47,12 @@
     <td>Practical session</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Modules, intro to pandas</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -64,7 +65,8 @@
   </tr>
   <tr>
     <td>9</td>
-    <td> Matplotlib. Nice colorful graphs! ✨ </td>
+    <td>Matplotlib. Nice colorful graphs! ✨ </td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
