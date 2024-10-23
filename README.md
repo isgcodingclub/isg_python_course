@@ -55,7 +55,7 @@
     <td>Modules, intro to pandas</td>
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/46dae8ef51c4903afca65a2abdb37f4847454882/jupyter_notebooks/lesson_7.ipynb">Link to lesson 7</a></td>
     <td></td>
-    <td></td>
+    <td><a href = "https://youtu.be/gLAH_ew6IBk"> lesson6-lesson7</a></td>
   </tr>
   <tr>
     <td>8</td>
