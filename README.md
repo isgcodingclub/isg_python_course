@@ -48,7 +48,7 @@
     <td>Practical session</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href = "https://youtu.be/t7-Ac0BuHi8"> Lesson 6</a></td>
   </tr>
   <tr>
     <td>7</td>
