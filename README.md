@@ -41,7 +41,7 @@
     <td>functions</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href = "https://youtu.be/lzaQ6mFjG30"> Lesson4 continued - lesson 5</a></td>
   </tr>
   <tr>
     <td>6</td>
