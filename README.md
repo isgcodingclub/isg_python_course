@@ -18,8 +18,8 @@
     <td>2</td>
     <td>lists and loops</td>
     <td></td>
-    <td><p> <a href = "https://youtu.be/uSVAD1hB6nc"> Lesson 2<\a></p>
-    <a href = "https://youtu.be/cqlBT3wEBes"> Lesson 2 continued<\a></td>
+    <td><p> <a href = "https://youtu.be/uSVAD1hB6nc"> Lesson 2</a></p>
+    <a href = "https://youtu.be/cqlBT3wEBes"> Lesson 2 continued</a></td>
     <td></td>
   </tr>
   <tr>
