@@ -27,7 +27,7 @@
     <td>dictionaries</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href = "https://youtu.be/BEPCYpk1JtM">Lesson3</a></td>
   </tr>
   <tr>
     <td>4</td>
