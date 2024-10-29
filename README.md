@@ -60,7 +60,7 @@
   <tr>
     <td>8</td>
     <td>More pandas</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/457c7da3b394a1afaafe9d1963f9bc4637630b2b/assets/METABRIC_RNA_Mutation.csv">Metabric dataset</a></td>
     <td></td>
     <td></td>
   </tr>
