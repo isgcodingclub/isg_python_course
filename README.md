@@ -46,7 +46,7 @@
   <tr>
     <td>6</td>
     <td>Practical session</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/db5b292d394755cd196c73697ac9aeb12789efe7/jupyter_notebooks/Lesson_6.ipynb">Link to lesson 6</a></td>
     <td></td>
     <td><a href = "https://youtu.be/t7-Ac0BuHi8"> Lesson 6</a></td>
   </tr>
