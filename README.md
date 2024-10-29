@@ -39,7 +39,7 @@
   <tr>
     <td>5</td>
     <td>functions</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/d671cc98908decee3fa382e4b52e18137127ae75/jupyter_notebooks/Lesson5.ipynb">Link to lesson 5</a></td>
     <td></td>
     <td><a href = "https://youtu.be/lzaQ6mFjG30"> Lesson4 continued - lesson 5</a></td>
   </tr>
