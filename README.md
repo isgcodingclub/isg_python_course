@@ -32,7 +32,7 @@
   <tr>
     <td>4</td>
     <td>input statements and if statements</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/a05524b5b57bd5c02fe93cd6f0eada763b9dd18a/jupyter_notebooks/Lesson4.ipynb"> Link to lesson 4</a></td>
     <td></td>
     <td><a href="https://youtu.be/uyTVgs6uqd8"> Lesson4 </a></td>
   </tr>
