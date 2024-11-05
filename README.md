@@ -11,7 +11,7 @@
     <td>1</td>
     <td>Strings, floats and variables</td>
     <td><a href="https://github.com/isgcodingclub/isg_python_course/blob/58bbce723fe17f17541fa652c1fd35e2b0a75366/jupyter_notebooks/Python_lesson_1.ipynb"> Link to lesson 1</a></td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/73987002efe48bc55a00ba8721cd8437cbe58389/jupyter_notebooks/Homework_lesson_1.ipynb"> Homework lesson 1</a></td>
     <td><a href = "https://youtu.be/aUl_uJUXr70">Lesson 1</a></td>
   </tr>
   <tr>
