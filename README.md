@@ -69,7 +69,7 @@
     <td>9</td>
     <td>Matplotlib. Nice colorful graphs! ✨ </td>
     <td></td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/7e4e336c3f7f99ddfc43623375617a936357361e/jupyter_notebooks/Lesson_9_Nice_graphs.ipynb"> Link to lesson 9 </a></td>
     <td></td>
   </tr>
 </table>
