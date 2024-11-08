@@ -18,7 +18,7 @@
     <td>2</td>
     <td>lists and loops</td>
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/2518f99a1d116927f930fb24c300e8a106be7526/jupyter_notebooks/Lesson2_lists.ipynb">Link to lesson 2</a></td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/9218d1054aa8761c504bc60e7b1d00783a90dec7/jupyter_notebooks/Lesson_2_homework.ipynb"> Homework lesson 2 </a></td>
     <td><p><a href = "https://youtu.be/uSVAD1hB6nc"> Lesson 2</a></p>
     <a href = "https://youtu.be/cqlBT3wEBes"> Lesson 2 continued</a></td>
   </tr>
