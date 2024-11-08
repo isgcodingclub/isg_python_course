@@ -26,7 +26,7 @@
     <td>3</td>
     <td>dictionaries</td>
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/bb9477b5702043d4582dfe09dd81c524c635351f/jupyter_notebooks/Lesson3.ipynb">Link to lesson 3</a></td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/5b5a399d6e50a279ca1b8eb0cc7eb99f12fc7de2/jupyter_notebooks/Lesson_3_homework.ipynb">Lesson 3 homework</a></td>
     <td><a href = "https://youtu.be/BEPCYpk1JtM">Lesson3</a></td>
   </tr>
   <tr>
