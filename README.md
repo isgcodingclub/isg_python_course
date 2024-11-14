@@ -71,7 +71,7 @@
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/7e4e336c3f7f99ddfc43623375617a936357361e/jupyter_notebooks/Lesson_9_Nice_graphs.ipynb"> Link to lesson 9 </a></td>
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/e732d6d3e19a4c889bfeed0b2f35ae26d5549537/jupyter_notebooks/Homework%20for%20lesson%209.ipynb"> Lesson 9 homework</a>
     <p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/6fea00ddb1720213cc145ddb66ab9d46cd138b9f/jupyter_notebooks/Homework%20for%20lesson%209%20answers.ipynb"> Lesson 9 homework answers</a></p></td>
-    <td></td>
+    <td><a href = "https://youtu.be/p1f3wFesRyk">Lesson 9</a></td>
   </tr>
 </table>
 
