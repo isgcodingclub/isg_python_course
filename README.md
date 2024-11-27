@@ -73,5 +73,12 @@
     <p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/6fea00ddb1720213cc145ddb66ab9d46cd138b9f/jupyter_notebooks/Homework%20for%20lesson%209%20answers.ipynb"> Lesson 9 homework answers</a></p></td>
     <td><a href = "https://youtu.be/p1f3wFesRyk">Lesson 9</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>Bar charts and histograms</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 </table>
 
