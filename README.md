@@ -76,7 +76,7 @@
   <tr>
     <td>10</td>
     <td>Bar charts and histograms</td>
-    <td> </td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/2861aa561d3adc1c34738e40ff9bff36d8ff0ebb/jupyter_notebooks/Lesson%2010.ipynb"> Link to lesson 10</a> </td>
     <td> </td>
     <td> </td>
   </tr>
