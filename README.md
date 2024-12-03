@@ -80,5 +80,12 @@
     <td> </td>
     <td> <a href = "https://youtu.be/tKuZGZUb-Xo"> Lesson 10</a></td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Pie charts</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 </table>
 
