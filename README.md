@@ -87,7 +87,7 @@
     <p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/d320a098caa15574837b75c3ca097e89b65ac451/jupyter_notebooks/Lesson11_Pie_chart.ipynb"> Lesson 11</a></p>
     <p> <a href = "https://github.com/isgcodingclub/isg_python_course/blob/99f9a752a1b903eb043d826613c93aa000a7f29a/jupyter_notebooks/Lesson11_Pie_chart_completed.ipynb">Lesson 11 completed</a></p></td>
     <td> </td>
-    <td> </td>
+    <td><a href = "https://youtu.be/p171x7IyBec">Lesson 11</a></td>
   </tr>
 </table>
 
