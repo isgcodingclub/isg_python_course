@@ -92,7 +92,7 @@
   <tr>
     <td>12</td>
     <td>Learning by example, practical</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/7c5009ab5ac3f295728d29306ba2212b72b46157/jupyter_notebooks/Learning_by_example.ipynb"> Link to lesson 12</a></td>
     <td></td>
     <td></td>
   </tr>
