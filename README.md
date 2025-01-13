@@ -94,6 +94,7 @@
     <td>Learning by example, practical</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 </table>
 
