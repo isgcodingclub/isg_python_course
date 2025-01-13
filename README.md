@@ -89,5 +89,11 @@
     <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/511e0505fadc7c9d93e477968bc8986177415549/jupyter_notebooks/Homework_lesson11.ipynb"> Lesson 11 Homework </a></td>
     <td><a href = "https://youtu.be/p171x7IyBec">Lesson 11</a></td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>Learning by example, practical</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
