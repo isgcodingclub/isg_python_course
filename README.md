@@ -95,7 +95,7 @@
     <td><p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/7c5009ab5ac3f295728d29306ba2212b72b46157/jupyter_notebooks/Learning_by_example.ipynb"> Link to lesson 12</a></p>
     <p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/14b7c6ada7a1103595064d561c039774deb1b805/jupyter_notebooks/Learning_by_example_answers.ipynb"> Lesson 12 completed</p></td></td>
     <td></td>
-    <td></td>
+    <td><a href = "https://youtu.be/7qIVurOV72k"> Lesson 12</a></td>
   </tr>
 </table>
 
