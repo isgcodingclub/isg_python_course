@@ -100,7 +100,7 @@
   <tr>
     <td> 13</td>
     <td> Tkinter</td>
-    <td></td>
+    <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/5ca12711853a8b129866e6ee0f5d6cf68020ed7a/jupyter_notebooks/Lesson%2013%20Tkinter.ipynb"> Link to lesson 13</a></td>
     <td></td>
     <td> <a href = "https://youtu.be/CPyX5Snck8s"> Lesson 13 </a></td>
   </tr>   
