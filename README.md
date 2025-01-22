@@ -97,5 +97,11 @@
     <td></td>
     <td><a href = "https://youtu.be/7qIVurOV72k"> Lesson 12</a></td>
   </tr>
+  <tr>
+    <td> 13</td>
+    <td> Tkinter</td>
+    <td></td>
+    <td> <a href = "https://youtu.be/CPyX5Snck8s"> Lesson 13 </a></td>
+  </tr>   
 </table>
 
