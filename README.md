@@ -101,6 +101,7 @@
     <td> 13</td>
     <td> Tkinter</td>
     <td></td>
+    <td></td>
     <td> <a href = "https://youtu.be/CPyX5Snck8s"> Lesson 13 </a></td>
   </tr>   
 </table>
