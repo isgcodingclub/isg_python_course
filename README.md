@@ -107,7 +107,8 @@
   </tr>   
   <tr><td>14</td>
   <td>Tkinter and Auto-py-to-exe</td>
-  <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/b13b08634b35492ee12ec85d8dab7452116fb2db/jupyter_notebooks/Lesson%2014%20packaging%20your%20app.ipynb">Link to lesson 14</a> </td>
+  <td><p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/b13b08634b35492ee12ec85d8dab7452116fb2db/jupyter_notebooks/Lesson%2014%20packaging%20your%20app.ipynb">Link to lesson 14</a></p> 
+ <p><a href = "https://github.com/isgcodingclub/isg_python_course/tree/b13b08634b35492ee12ec85d8dab7452116fb2db/assets/icons_files"> Fancy icons</a></p></td>
   <td> </td>
   <td> </td>
   </tr>
