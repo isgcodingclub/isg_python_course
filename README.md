@@ -105,5 +105,11 @@
     <p><a href = "https://github.com/isgcodingclub/isg_python_course/blob/65c7c5111466967a363a9d2db8ccc3eb8ce4f080/jupyter_notebooks/Lesson_13_homework_answer.ipynb"> Homework lesson 13 answers</a></p></td>
     <td> <a href = "https://youtu.be/CPyX5Snck8s"> Lesson 13 </a></td>
   </tr>   
+  <tr><td>14</td>
+  <td>Tkinter and Auto-py-to-exe</td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
 </table>
 
