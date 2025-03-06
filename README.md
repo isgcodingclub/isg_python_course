@@ -116,7 +116,7 @@
 <tr>
   <td>16</td>
   <td>Writing the app</td>
-  <td></td>
+  <td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/cd6999c22a79e4d616f340efb3c8bb6877ff62ac/jupyter_notebooks/Lesson16_Our_app.ipynb"> Link to lesson 16 </a></td>
   <td></td>
   <td><a href = "https://youtu.be/Pq_yLLN_8Vs"> Link to lesson 16 </a></td>
 </tr>
