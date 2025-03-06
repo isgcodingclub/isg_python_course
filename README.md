@@ -117,6 +117,7 @@
   <td>16</td>
   <td>Writing the app</td>
   <td></td>
+  <td></td>
   <td><a href = "https://youtu.be/Pq_yLLN_8Vs"> Link to lesson 16 </a></td>
 </tr>
 </table>
