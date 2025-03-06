@@ -112,6 +112,11 @@
   <td> </td>
   <td><a href = "https://youtu.be/_1sGWJ53dRI"> Link to lesson 14 </a></td>
   </tr>
-  <tr><td>15</td><td>Tkinter Slider and Combobox</td><td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/a05d1949acdb3cd976102c79f742d918a5abcdf9/jupyter_notebooks/Lesson%2015.ipynb"> Link to lesson 15</a></td><td></td><td><a href = "https://youtu.be/ja6kHorLDbU"> Link to Lesson 15</td></tr>
+  <tr><td>15</td><td>Tkinter Slider and Combobox</td><td><a href = "https://github.com/isgcodingclub/isg_python_course/blob/a05d1949acdb3cd976102c79f742d918a5abcdf9/jupyter_notebooks/Lesson%2015.ipynb"> Link to lesson 15</a></td><td></td><td><a href = "https://youtu.be/ja6kHorLDbU"> Link to Lesson 15</a></td></tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td><a href = "https://youtu.be/Pq_yLLN_8Vs"> Link to lesson 16 </a></td>
+</tr>
 </table>
 
